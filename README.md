@@ -8,6 +8,8 @@
 *Instalação*
 - [ ] npx create-react-app my-app-redux;
 - [ ] npm install --save redux react-redux;
+- [ ] npm install --save redux-devtools-extension
+- [ ] npm install --save prop-types
 - [ ] npm install.
 
 *Criar dentro do diretório src:*
